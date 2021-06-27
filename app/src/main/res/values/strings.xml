@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ecommerce Store</string>
+    <string name="name">Name</string>
+    <string name="email"> Email</string>
+    <string name="password">Password</string>
+    <string name="firstslide">Choose your Products</string>
+    <string name="secondslide">Fast Delivery</string>
+    <string name="thirdslide">Good Service</string>
+    <string name="description">Description</string>
+</resources>
